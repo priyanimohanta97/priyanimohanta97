@@ -9,10 +9,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/priyanimohanta97?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=priyanimohanta97&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
 </p>
 
 ---
@@ -25,7 +23,7 @@
 - 🛠️ Building projects to strengthen my development skills
 - 🗄️ Learning database design, SQL, and backend architecture
 - 🚀 Focused on becoming a skilled software developer
-- 📫 Email: Add your email here
+- 📫 Reach me at **[priyanimohanta97@gmail.com](mailto:priyanimohanta97@gmail.com)**
 
 ---
 
@@ -38,8 +36,8 @@
   <a href="https://www.python.org/">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48"/>
   </a>
-  <a href="https://www.w3schools.com/sql/">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="48" height="48"/>
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48"/>
   </a>
 </p>
 
@@ -51,9 +49,6 @@
   </a>
   <a href="https://hibernate.org/">
     <img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" width="48" height="48"/>
-  </a>
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48"/>
   </a>
 </p>
 
@@ -101,9 +96,6 @@
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48"/>
   </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48"/>
-  </a>
   <a href="https://www.postman.com/">
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="48" height="48"/>
   </a>
@@ -131,14 +123,16 @@
   <img src="https://streak-stats.demolab.com?user=priyanimohanta97&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
+---
+
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://github.com/priyanimohanta97">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <a href="mailto:priyanimohanta97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-priyanimohanta97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/priyanimohanta/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
